@@ -1,0 +1,17 @@
+.detail-container {
+  width: 60vw;
+  margin: 0 auto;
+
+  h1,
+  h3 {
+    text-align: center;
+    text-transform: capitalize;
+  }
+
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 165px);
+    margin-bottom: 10px;
+  }
+}

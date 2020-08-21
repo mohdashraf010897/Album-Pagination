@@ -1,0 +1,39 @@
+.photo-container {
+  display: flex;
+  width: 180px;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 4px;
+  position: relative;
+  min-height: 40px;
+  background-color: #ffffff;
+  cursor: pointer;
+  color: #444;
+  text-decoration: none;
+  line-height: 1;
+  font-size: 1rem;
+  -webkit-user-select: none;
+  user-select: none;
+  transition: box-shadow 0.2s ease-out;
+  box-shadow: 0 6px 4px -4px transparent;
+  margin: 4px 0;
+
+  &:hover {
+    box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s ease-in;
+  }
+
+  .img-container {
+    margin-bottom: 5px;
+
+    img {
+      width: 100px;
+    }
+  }
+  .title {
+    text-align: center;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 10px;
+  }
+}

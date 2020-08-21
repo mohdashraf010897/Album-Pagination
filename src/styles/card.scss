@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+  min-height: 40px;
+  width: 400px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  cursor: pointer;
+  color: #444;
+  text-decoration: none;
+  line-height: 1;
+  font-size: 1rem;
+  -webkit-user-select: none;
+  user-select: none;
+  transition: box-shadow 0.2s ease-out;
+  box-shadow: 0 6px 4px -4px transparent;
+  flex-wrap: wrap;
+  margin: 10px 0;
+  height: 80px;
+
+  &:hover {
+    box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s ease-in;
+  }
+
+  .title {
+    flex-basis: 100%;
+    font-weight: bold;
+  }
+
+  .username {
+    width: 100%;
+    display: flex;
+    a {
+      margin-left: auto;
+      color: black;
+    }
+  }
+}

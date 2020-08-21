@@ -1,0 +1,9 @@
+.page-link {
+  cursor: pointer;
+
+  &.inactive {
+    color: #c6c6c6;
+    pointer-events: none;
+    cursor: not-allowed;
+  }
+}
