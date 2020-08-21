@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mohdashraf010897/Album-Pagination/static/css/main.98b9ccf3.chunk.css",
+    "main.js": "/mohdashraf010897/Album-Pagination/static/js/main.824f0ad8.chunk.js",
+    "main.js.map": "/mohdashraf010897/Album-Pagination/static/js/main.824f0ad8.chunk.js.map",
+    "runtime-main.js": "/mohdashraf010897/Album-Pagination/static/js/runtime-main.1039d726.js",
+    "runtime-main.js.map": "/mohdashraf010897/Album-Pagination/static/js/runtime-main.1039d726.js.map",
+    "static/js/2.ad655272.chunk.js": "/mohdashraf010897/Album-Pagination/static/js/2.ad655272.chunk.js",
+    "static/js/2.ad655272.chunk.js.map": "/mohdashraf010897/Album-Pagination/static/js/2.ad655272.chunk.js.map",
+    "index.html": "/mohdashraf010897/Album-Pagination/index.html",
+    "precache-manifest.97b9d012f8d56de6e6e2ddab61dd5b47.js": "/mohdashraf010897/Album-Pagination/precache-manifest.97b9d012f8d56de6e6e2ddab61dd5b47.js",
+    "service-worker.js": "/mohdashraf010897/Album-Pagination/service-worker.js",
+    "static/css/main.98b9ccf3.chunk.css.map": "/mohdashraf010897/Album-Pagination/static/css/main.98b9ccf3.chunk.css.map",
+    "static/js/2.ad655272.chunk.js.LICENSE.txt": "/mohdashraf010897/Album-Pagination/static/js/2.ad655272.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1039d726.js",
+    "static/js/2.ad655272.chunk.js",
+    "static/css/main.98b9ccf3.chunk.css",
+    "static/js/main.824f0ad8.chunk.js"
+  ]
+}
