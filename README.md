@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Album Pagination
 
+Check Live at : [https://focused-carson-509bd2.netlify.app/](https://focused-carson-509bd2.netlify.app/)
 
 Album Pagination is a takehome assignment done to implement and showcase custom pagination and fetching of data from json placeholder api using redux (thunk).
 
